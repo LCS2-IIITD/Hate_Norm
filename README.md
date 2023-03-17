@@ -48,3 +48,14 @@ where input_text and parapharase_text are hateful and normalised sentences and B
 * Utils.py to generate the crf_input file.
 * Addtinally we have used crf.py (not able to track this source from Github)
 
+## Hate Norm Dataset Access Request
+To request access to the Hate Norm Dataset, follow the steps shown below.
+
+Fill out the agreement form linked [here](https://forms.gle/eKMLLF93R5P7rsz7A)
+Forward the google form's confirmation email to sarah@iiitd.ac.in and aflah20082@iiitd.ac.in requesting access to the dataset.
+
+## Citation 
+
+If you are using this work or the dataset, cite the [paper](https://arxiv.org/abs/2206.04007)
+
+> Sarah Masud, Manjot Bedi, Mohammad Aflah Khan, Md Shad Akhtar, and Tanmoy Chakraborty. 2022. Proactively Reducing the Hate Intensity of Online Posts via Hate Speech Normalization. In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '22). Association for Computing Machinery, New York, NY, USA, 3524–3534. https://doi.org/10.1145/3534678.3539161
